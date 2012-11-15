@@ -4,9 +4,9 @@ include 'createidentity.php';
  
 
 $url = 'http://sendgrid.com/';
-$user = 'andrei';
-$pass = 'silv3r198'; 
-$name = 'New Sebi2';
+$user = 'username';
+$pass = 'password'; 
+$name = 'new name';
 $identity = addIdentity();
  
 $params = array('add'=> array(

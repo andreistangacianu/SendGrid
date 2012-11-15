@@ -2,8 +2,8 @@
 function addIdentity(){
 	
 $url = 'http://sendgrid.com/';
-$user = 'andrei';
-$pass = 'silv3r198';
+$user = 'username';
+$pass = 'password';
 
 $params = array(
  'api_user'  => $user,
